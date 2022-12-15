@@ -1,4 +1,3 @@
-## 'Sup bro👋
 ![](https://komarev.com/ghpvc/?username=Mac709)
 
 <h1 align="center">Hi 👋, I'm Daichi Koga</h1>
