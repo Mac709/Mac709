@@ -32,7 +32,7 @@ URL : https://tars-tech-news.com/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mac709&show_icons=true&title_color=0e75b6&text_color=010609&bg_color=fcfcfc&locale=en&layout=compact" alt="mac709" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mac709&show_icons=true&title_color=0e75b6&text_color=010609&bg_color=fcfcfc&locale=en&layout=compact" alt="mac709" /></p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
