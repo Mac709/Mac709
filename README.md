@@ -6,18 +6,19 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Portfolio:</h3>
-<h5>・Village - あなたの地域に、あなたのコミュニティを</h5>
-URL : https://apps.apple.com/app/village-anatanodi-yu-ni-anatanokomiyuniteiwo/id1670908418?src=AppAgg.com
-<br/>開発言語 : Ionic, Vue
-<br/>開発環境 : Firebase
+<h5>・Village - あなたの地域に、あなたのコミュニティを (Ios App)</h5>
+Ios URL : https://apps.apple.com/app/village-anatanodi-yu-ni-anatanokomiyuniteiwo/id1670908418?src=AppAgg.com
+<br/>Language : Ionic, Vue
+<br/>Environment : Firebase
 
-<h5>・CSV 変換ソフト</h5>
+<h5>・CSV Transfer (Web App)</h5>
 URL : https://transfercsv-ic8n.onrender.com/
-<br/>開発言語 : Java, Spring, HTML, CSS
-<br/>開発環境 : Render.com
+<br/>Language : Java, Spring, HTML, CSS
+<br/>Environment : Render.com
 
 <h5>・Tech News Site </h5>
 URL : https://tars-tech-news.com/
+<br/>Environment : WordPress
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
