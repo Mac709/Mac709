@@ -17,7 +17,7 @@ URL : https://transfercsv-ic8n.onrender.com/
 開発環境 : Render.com
 
 <h5>・Tech News Site </h5>
-URL : [https://tars-tech-news.com/](https://tars-tech-news.com/)
+URL : https://tars-tech-news.com/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
