@@ -8,13 +8,13 @@
 <h3 align="left">Portfolio:</h3>
 <h5>・Village - あなたの地域に、あなたのコミュニティを</h5>
 URL : https://apps.apple.com/app/village-anatanodi-yu-ni-anatanokomiyuniteiwo/id1670908418?src=AppAgg.com
-開発言語 : Ionic, Vue
-開発環境 : Firebase
+<br/>開発言語 : Ionic, Vue
+<br/>開発環境 : Firebase
 
 <h5>・CSV 変換ソフト</h5>
 URL : https://transfercsv-ic8n.onrender.com/
-開発言語 : Java, Spring, HTML, CSS
-開発環境 : Render.com
+<br/>開発言語 : Java, Spring, HTML, CSS
+<br/>開発環境 : Render.com
 
 <h5>・Tech News Site </h5>
 URL : https://tars-tech-news.com/
