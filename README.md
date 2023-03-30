@@ -3,6 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mac709&label=Profile%20views&color=0e75b6&style=flat" alt="mac709" /> </p>
 
+<h3 align="left">Portfolio:</h3>
+<h5>・Village - あなたの地域に、あなたのコミュニティを</h5>
+URL : https://apps.apple.com/app/village-anatanodi-yu-ni-anatanokomiyuniteiwo/id1670908418?src=AppAgg.com
+開発言語 : Ionic, Vue
+
+<h5>・CSV 変換ソフト</h5>
+URL : https://transfercsv-ic8n.onrender.com/
+開発言語 : Java, Spring, HTML, CSS
+
 - 📝 I regularly write articles on [https://tars-tech-news.com/](https://tars-tech-news.com/)
 
 - 💬 Ask me about **anything**
